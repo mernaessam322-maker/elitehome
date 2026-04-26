@@ -1028,5 +1028,14 @@ html, body {
 }
 
 
-    
+    /*  circle decorasion none */
+@media (max-width: 991px) {
+    .decorative-circle-outline {
+        display: none !important;
+    }
+    .contact-page-wrapper::after, 
+    .contact-page-wrapper::before {
+        display: none !important;
+    }
+}
 
