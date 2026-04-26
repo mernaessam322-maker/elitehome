@@ -1027,16 +1027,6 @@ html, body {
     overflow-x: hidden;
 }
 
-@media (max-width: 991px) {
-    /* بنجبر الـ row إنه يفرش العناصر جنب بعضها */
-   
 
-    /* بنجبر أي عمود واخد col-6 إنه ياخد نص العرض بالظبط */
-    .mega-menu .col-6 {
-        flex: 0 0 50% !important;
-        max-width: 50% !important;
-        padding-left: 5px !important;
-        padding-right: 5px !important;
-    }
     
 
